@@ -2,7 +2,7 @@
 
 # 在线安装
 
-# 脚本下载地址： [http:\/\/mirror.51ovm.com\/install\/ovm-platform-install.sh](http://mirror.51ovm.com/install/ovm-platform-install.sh)
+# [安装脚本下载地址](http://mirror.51ovm.com/install/ovm-platform-install.sh)
 
 使用官方发行版的CentOS 7 RHEL7 MINI 安装。
 
