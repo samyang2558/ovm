@@ -1,6 +1,6 @@
 # NFS服务器配置
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 NFS服务器的配置
 
 **在OVM NFS服务器的角色**
@@ -9,7 +9,7 @@ OVM 需要一个NFS资源库来存储 **虚拟机模板（为用户部署提供�
 
 使用NFS资源库:
 
-* Remote Servers
+* 数据中心组件
 * 应用管理
 * V2V转换
 * Hypervisors
@@ -117,7 +117,7 @@ UUID=81b18c68-fac7-4ad6-be11-789f7b35fbe7 /boot                   ext4    defaul
 
 ```
 
-
-
 =======
->>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
+
+> > > > > > > 58c308dd0265062eec8f3612d82212650b96b88c
+
