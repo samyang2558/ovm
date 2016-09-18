@@ -1,6 +1,6 @@
 # 在线安装
 
-# 脚本下载地址： http:\/\/mirror.51ovm.com\/install\/
+# 脚本下载地址： http:\/\/mirror.51ovm.com\/install\/ ovm-node-install.sh 
 
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 使用官方发行版的CentOS 7 RHEL7 MINI 安装。如果用户使用CentOS官方ISO安装了相应的 Centos7.2操作系统，并需使用外部的Yum源来安装相应的软件包，则需在线安装。
