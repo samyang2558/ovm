@@ -1,5 +1,6 @@
 # 安装后配置
 
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 安装完毕后使用admin用户登录（admin\/admin）
 
 初始化平台系统。
@@ -49,7 +50,7 @@ esage.rabbitmq.host = 127.0.0.1
 [root@localhost ~]# 
 ```
 
-ovm-UI配置
+如果自动化配置没有生效，需要手工配置， ovm-UI配置文件的路径为：
 
 \/var\/www\/html\/ui\/index.html
 
@@ -91,15 +92,12 @@ ovm-UI配置
 
 修改完配置文件后重启一下两个服务
 
-
 ```
 [root@localhost ~]# systemctl restart esage-tomcat.service
 [root@localhost ~]# systemctl restart httpd.service
 ```
 
+=======
 
-
-
-
-
+> > > > > > > 58c308dd0265062eec8f3612d82212650b96b88c
 
