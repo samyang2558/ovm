@@ -1,5 +1,6 @@
 # OVM-Node使用
 
+<<<<<<< HEAD
 ## ConsoleUI设置
 
 ### 1、使用admin\/admin登陆进入Console UI，设置相关信息
@@ -141,3 +142,5 @@ Docker Server”启动
 
 
 
+=======
+>>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c

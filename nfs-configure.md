@@ -1,5 +1,6 @@
 # NFS服务器配置
 
+<<<<<<< HEAD
 NFS服务器的配置
 
 **在OVM NFS服务器的角色**
@@ -118,3 +119,5 @@ UUID=81b18c68-fac7-4ad6-be11-789f7b35fbe7 /boot                   ext4    defaul
 
 
 
+=======
+>>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c

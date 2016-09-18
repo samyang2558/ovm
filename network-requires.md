@@ -1,5 +1,6 @@
 # 网络要求
 
+<<<<<<< HEAD
 ## 网络配置
 
 ### 三层交换机
@@ -101,5 +102,7 @@ Balance-tcp
 这种mode 的 hash 是根据封包的 L2\/L3\/L4 header 来处理的，所以每条connection 可能会走不同的 link 出去，但是相同 connection 则会一直固定以避免发生 out of order 之类的事情。
 
 
+=======
+>>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
 
 
