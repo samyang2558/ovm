@@ -1,6 +1,8 @@
 # 在线安装
 
-<<<<<<< HEAD
+# 脚本下载地址： http:\/\/mirror.51ovm.com\/install\/
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 使用官方发行版的CentOS 7 RHEL7 MINI 安装。如果用户使用CentOS官方ISO安装了相应的 Centos7.2操作系统，并需使用外部的Yum源来安装相应的软件包，则需在线安装。
 
 在线安装步骤如下：
@@ -18,9 +20,12 @@
   Done.
   Installing OVM Platform Packages...
 
-3.  安装结束后会弹出自动初始化的窗口
+3. 安装结束后会弹出自动初始化的窗口
 
-脚本下载地址： http:\/\/mirror.51ovm.com\/install\/
+4. 初始化完成后需要重启服务器以便使用
+
 
 =======
->>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
+
+> > > > > > > 58c308dd0265062eec8f3612d82212650b96b88c
+
