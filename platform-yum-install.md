@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 # 在线安装
+
+# 脚本下载地址： http:\/\/mirror.51ovm.com\/install\/
 
 使用官方发行版的CentOS 7 RHEL7 MINI 安装。
 
@@ -31,8 +34,6 @@
 
 3. 安装结束后会弹出自动初始化的窗口
 
-脚本下载地址：  http:\/\/mirror.51ovm.com\/install\/
-=======
-# yum在线安装
->>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
+
+> > > > > > > 58c308dd0265062eec8f3612d82212650b96b88c
 
