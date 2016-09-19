@@ -63,7 +63,7 @@ Docker Server”启动
 
 # 5、访问webUI
 
-1、访问地址：http:\\ ip:8008
+1、访问地址：http:\ \ ip:8008
 
 建议使用谷歌、火狐、IE浏览器访问
 
