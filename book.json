@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "ad",
+        "redirect",
+        "expandable-chapters",
+        "duoshuo",
+        "word-count",
+        "wide-page",
+        "tree",
+        "sidebar-ad",
+        "search-pro",
+        "navigator",
+        "indexes",
+        "image-captions",
+        "hotjar",
+        "diy-introduction",
+        "blog"
+    ]
+}
