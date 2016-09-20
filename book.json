@@ -2,7 +2,7 @@
     "plugins": [
         "ad",
         "redirect",
-        "expandable-chapters",
+        "-expandable-chapters",
         "duoshuo",
         "word-count",
         "wide-page",
