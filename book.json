@@ -15,5 +15,6 @@
         "hotjar",
         "diy-introduction",
         "blog"
-    ]
+    ],
+    "pluginsConfig": {}
 }
