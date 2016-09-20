@@ -14,7 +14,8 @@
         "image-captions",
         "hotjar",
         "diy-introduction",
-        "blog"
+        "blog",
+        "customtheme"
     ],
     "pluginsConfig": {
         "fontsettings": {
