@@ -17,6 +17,10 @@
         "blog",
         "customtheme"
     ],
+    "editlink": {
+      "base": "https://www.51ovm.com",
+      "label": "OVM官网"
+    },
     "pluginsConfig": {
         "fontsettings": {
             "theme": "sepia",
