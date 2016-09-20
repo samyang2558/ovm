@@ -16,5 +16,11 @@
         "diy-introduction",
         "blog"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "sans",
+            "size": 2
+        }
+    }
 }
