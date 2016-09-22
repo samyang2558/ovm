@@ -1,6 +1,6 @@
 # Docker方式部署
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 使用ovm发行版的docker版iso 使用DVD安装
 
 OVM虚拟化的docker发行版采用一键式安装中途需要设置root密码
@@ -15,21 +15,19 @@ OVM虚拟化的docker发行版采用一键式安装中途需要设置root密码
 
 ### 备份eth0 网卡并生成br0网卡
 
- \[root@localhost ~\]\# cd \/etc\/sysconfig\/network-scripts\/
+\[root@localhost ~\]\# cd \/etc\/sysconfig\/network-scripts\/
 
- \[root@localhost network-scripts\]\# cp ifcfg-eth0 ifcfg-br0
+\[root@localhost network-scripts\]\# cp ifcfg-eth0 ifcfg-br0
 
 ifcfg-eth0 改为以下内容
 
 \[root@localhost network-scripts\]\# vim ifcfg-eth0
 
-
-
 TYPE="Ethernet"
 
 .DEVICE="eth0"
 
- ONBOOT="yes"
+ONBOOT="yes"
 
 BRIDGE=br0
 
@@ -41,7 +39,7 @@ BRIDGE=br0
 
 TYPE="Bridge"
 
- DEVICE="br0"
+DEVICE="br0"
 
 ONBOOT="yes"
 
@@ -49,9 +47,9 @@ BOOTPROTO=static
 
 IPADDR="192.168.8.143"
 
- NETMASK="255.255.255.0"
+NETMASK="255.255.255.0"
 
- GATEWAY="192.168.8.2"
+GATEWAY="192.168.8.2"
 
 \(DHCP动态IP获取模式\)
 
@@ -61,21 +59,19 @@ DEVICE=br0
 
 ONBOOT=yes
 
- BOOTPROTO=dhcp
+BOOTPROTO=dhcp
 
 ### 2、重启网络服务
 
 \[root@localhost network-scripts\]\# service network restart
 
- Restarting network \(via systemctl\): \[ 确定 \]
-
-
+Restarting network \(via systemctl\): \[ 确定 \]
 
 # 下面简单介绍Bui的功能
 
 1）物理机信息
 
-![](/assets/Bui01.png)
+![](/assets/火狐截图_2016-09-21T03-01-25.093Z.png)
 
 2）容器列表
 
@@ -85,19 +81,15 @@ ONBOOT=yes
 
 删除容器：容器停止状态下
 
-![](/assets/Bui02.png)
+![](/assets/火狐截图_2016-09-21T03-11-46.763Z.png)
 
 3）镜像列表使用
 
- ![](/assets/Bui03.png)
-
-
+![](/assets/火狐截图_2016-09-21T03-12-56.233Z.png)
 
 4）点击“+”搜索镜像
 
 ![](/assets/Bui04.png)
-
-
 
 5）选择镜像下载
 
@@ -106,8 +98,6 @@ ONBOOT=yes
 实现docker的管理
 
 # docker版平台的使用
-
-
 
 登陆后台把ovm-platform.tar镜像上传服务器的任意目录
 
@@ -127,27 +117,17 @@ debug kernels ovm-platform.tar
 
 Bui 上通过管理端镜像创建管理端容器
 
-![](/assets/Bui07.png)
+![](/assets/火狐截图_2016-09-21T03-16-03.457Z.png)
 
-
-
-点击刷新，便会看到创建的容器 
+点击刷新，便会看到创建的容器
 
 ![](/assets/Bui08.png)
 
-浏览器输入管理端容器ip，访问管理平台 
+浏览器输入管理端容器ip，访问管理平台
 
 ![](/assets/Bui09.png)
 
-
-
-
-
-
-
-
-
-
-
 =======
->>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
+
+> > > > > > > 58c308dd0265062eec8f3612d82212650b96b88c
+
