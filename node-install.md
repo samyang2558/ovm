@@ -11,13 +11,27 @@
 
 ![](/assets/UltraISO02.png)
 
+Ovm-node一步式安装
+
+ovm-node安装与CentOS7 RHEL7系列类似 
+
 ![](/assets/OVMNODE01.png)
 
 ![](/assets/ovmnode02.png)
 
+选择相应语言
+
 ![](/assets/ovmnode03.png)
 
+设置安装类型为ovm安装
+
+由于使用的是已经安装过系统的磁盘，出现需要设置安装分区网络我们可以提前规划好并设置相应的IP。
+
 ![](/assets/ovmnode04.png)
+
+设置root
+等待安装结束
+
 
 =======
 
