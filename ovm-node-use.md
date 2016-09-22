@@ -71,7 +71,7 @@ Docker Server”启动
 
 1）物理机信息
 
-![](/assets/image037.png)
+![](/assets/火狐截图_2016-09-21T03-01-25.093Z.png)
 
 2）容器列表
 
@@ -81,11 +81,11 @@ Docker Server”启动
 
 删除容器：容器停止状态下
 
-![](/assets/image039.png)
+![](/assets/火狐截图_2016-09-21T03-11-46.763Z.png)
 
 3）镜像列表使用
 
-![](/assets/image041.png)
+![](/assets/火狐截图_2016-09-21T03-12-56.233Z.png)
 
 4）点击“+”搜索镜像
 
@@ -113,7 +113,7 @@ Docker Server”启动
 
 # 7.WebUI 上通过管理端镜像创建管理端容器
 
-![](/assets/image051.png)
+![](/assets/火狐截图_2016-09-21T03-16-03.457Z.png)
 
 点击刷新，便会看到创建的容器
 
