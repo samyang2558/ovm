@@ -1,6 +1,6 @@
 # 安装部署后配置
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 KVM计算节点安装完毕后使用admin\/admin设置模板库地址
 
 检查模板库是否挂载
@@ -39,7 +39,5 @@ Docker计算节点安装完毕后
 
 ![](/assets/Docker_Repertory.png)
 
+====
 
-
-=======
->>>>>>> 58c308dd0265062eec8f3612d82212650b96b88c
