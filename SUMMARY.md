@@ -44,7 +44,10 @@
         * [管理Docker镜像](manager-docker-image.md)
     * [账户管理](Account-manager.md)
         * [管理角色](manager-role.md)
+<<<<<<< HEAD
 * [系统登录](login.md)
+=======
+>>>>>>> b14068226dd6224c884ee435feb99bd8875c31a3
 * [操作日志](event.md)
 * [平台备份&升级](platform-backup-upgrade.md)
 * [虚拟机高可用](ha.md)
