@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "-ad",
+        "ad",
         "redirect",
         "expandable-chapters",
         "duoshuo",
@@ -16,14 +16,15 @@
         "diy-introduction",
         "blog",
         "customtheme",
-        "-action"
+        "-action",
+        "add-header"
     ],
     "editlink": {
         "base": "https://www.51ovm.com",
         "label": "OVM官网"
     },
     "pluginsConfig": {
-        "-ad": {
+        "ad": {
             "contentTop": "OVM官网",
             "contentBottom": "false"
         }
