@@ -16,7 +16,6 @@
         "-diy-introduction",
         "blog",
         "customtheme",
-        "-action",
         "add-header"
     ],
     "editlink": {
