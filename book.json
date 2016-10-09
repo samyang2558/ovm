@@ -8,7 +8,7 @@
         "image-captions",
         "hotjar",
         "-diy-introduction",
-        "customtheme",
+        "-customtheme",
         "-add-header"
     ],
     "editlink": {
