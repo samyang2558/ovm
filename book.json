@@ -9,7 +9,7 @@
         "-tree",
         "sidebar-ad",
         "search-pro",
-        "navigator",
+        "-navigator",
         "indexes",
         "image-captions",
         "hotjar",
