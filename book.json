@@ -1,7 +1,6 @@
 {
     "plugins": [
         "expandable-chapters",
-        "duoshuo",
         "wide-page",
         "-tree",
         "-navigator",
