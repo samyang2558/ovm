@@ -1,7 +1,7 @@
 {
     "plugins": [
         "ad",
-        "redirect",
+        "-redirect",
         "expandable-chapters",
         "duoshuo",
         "word-count",
