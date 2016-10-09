@@ -13,7 +13,7 @@
         "indexes",
         "image-captions",
         "hotjar",
-        "diy-introduction",
+        "-diy-introduction",
         "blog",
         "customtheme",
         "-action",
