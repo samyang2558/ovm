@@ -16,7 +16,7 @@
         "diy-introduction",
         "blog",
         "customtheme",
-        "action"
+        "-action"
     ],
     "editlink": {
         "base": "https://www.51ovm.com",
