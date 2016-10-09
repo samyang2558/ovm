@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "ad",
+        "-ad",
         "redirect",
         "expandable-chapters",
         "duoshuo",
@@ -23,7 +23,7 @@
         "label": "OVM官网"
     },
     "pluginsConfig": {
-        "ad": {
+        "-ad": {
             "contentTop": "OVM官网",
             "contentBottom": "false"
         }
