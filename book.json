@@ -9,7 +9,7 @@
         "hotjar",
         "-diy-introduction",
         "customtheme",
-        "add-header"
+        "-add-header"
     ],
     "editlink": {
         "base": "https://www.51ovm.com",
