@@ -1,31 +1,19 @@
 {
     "plugins": [
-        "ad",
-        "redirect",
         "expandable-chapters",
-        "duoshuo",
-        "word-count",
-        "wide-page",
-        "tree",
-        "sidebar-ad",
-        "search-pro",
-        "navigator",
+        "-wide-page",
+        "-tree",
+        "-navigator",
         "indexes",
         "image-captions",
         "hotjar",
-        "diy-introduction",
-        "blog",
-        "customtheme"
+        "-diy-introduction",
+        "-customtheme",
+        "-add-header"
     ],
     "editlink": {
-      "base": "https://www.51ovm.com",
-      "label": "OVM官网"
+        "base": "https://www.51ovm.com",
+        "label": "OVM官网"
     },
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "sans",
-            "size": 2
-        }
-    }
+    "pluginsConfig": {}
 }
