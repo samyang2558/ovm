@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "ad",
         "-redirect",
         "expandable-chapters",
         "duoshuo",
@@ -22,10 +21,5 @@
         "base": "https://www.51ovm.com",
         "label": "OVM官网"
     },
-    "pluginsConfig": {
-        "ad": {
-            "contentTop": "OVM官网",
-            "contentBottom": "false"
-        }
-    }
+    "pluginsConfig": {}
 }
