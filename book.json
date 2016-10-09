@@ -15,17 +15,12 @@
         "hotjar",
         "diy-introduction",
         "blog",
-        "customtheme"
+        "customtheme",
+        "action"
     ],
     "editlink": {
-      "base": "https://www.51ovm.com",
-      "label": "OVM官网"
+        "base": "https://www.51ovm.com",
+        "label": "OVM官网"
     },
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "sans",
-            "size": 2
-        }
-    }
+    "pluginsConfig": {}
 }
