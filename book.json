@@ -22,5 +22,10 @@
         "base": "https://www.51ovm.com",
         "label": "OVM官网"
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "ad": {
+            "contentTop": "OVM官网",
+            "contentBottom": "false"
+        }
+    }
 }
