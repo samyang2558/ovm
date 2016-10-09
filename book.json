@@ -2,7 +2,6 @@
     "plugins": [
         "expandable-chapters",
         "duoshuo",
-        "word-count",
         "wide-page",
         "-tree",
         "sidebar-ad",
