@@ -15,7 +15,20 @@
   * [新建服务器池](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xin-jian-fu-wu-qi-chi.md)
   * [添加服务器](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/tian-jia-fu-wu-qi.md)
   * [创建虚拟交换机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/chuang-jian-xu-ni-jiao-huan-ji.md)
-  * 虚拟机操作管理
+  * [虚拟机操作管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li.md)
+    * [上传模板](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/shang-chuan-mo-ban.md)
+    * 创建虚拟机
+    * 修改虚拟机
+    * 虚拟机开机/关机管理
+    * 批量搜索虚拟机
+    * 完整克隆和链接克隆
+    * 虚拟机批量操作
+    * 资源实时监控
+    * 虚拟磁盘缓存模式
+    * 虚拟机磁盘文件
+    * 虚拟机备份
+    * 虚拟机快照
+    * 虚拟机创建还原点
   * 业务动态平滑扩展
   * 业务连续性、可靠性
   * 虚拟网络管理
