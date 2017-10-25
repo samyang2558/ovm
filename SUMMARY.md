@@ -17,7 +17,7 @@
   * [创建虚拟交换机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/chuang-jian-xu-ni-jiao-huan-ji.md)
   * [虚拟机操作管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li.md)
     * [上传模板](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/shang-chuan-mo-ban.md)
-    * 创建虚拟机
+    * [创建虚拟机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/chuang-jian-xu-ni-ji.md)
     * 修改虚拟机
     * 虚拟机开机/关机管理
     * 批量搜索虚拟机
