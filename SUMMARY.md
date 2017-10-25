@@ -29,7 +29,7 @@
     * [虚拟机备份](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-bei-fen.md)
     * [虚拟机快照](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-kuai-zhao.md)
     * [虚拟机创建还原点](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-chuang-jian-huan-yuan-dian.md)
-  * 业务动态平滑扩展
+  * [业务动态平滑扩展](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ye-wu-dong-tai-ping-hua-kuo-zhan.md)
   * 业务连续性、可靠性
   * 虚拟网络管理
   * 存储管理
