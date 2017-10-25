@@ -2,7 +2,9 @@
 
 在编辑虚拟机页面，磁盘标签页，可设置磁盘的缓存模式
 
-![](/assets/3.6.9import.png)设置动态电源管理的策略
+![](/assets/3.6.9import.png)
+
+设置动态电源管理的策略
 
 ![](/assets/3.6.81import.png)
 

@@ -25,7 +25,7 @@
     * [虚拟机批量操作](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-pi-liang-cao-zuo.md)
     * [资源实时监控](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/zi-yuan-shi-shi-jian-kong.md)
     * [虚拟磁盘缓存模式](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ci-pan-huan-cun-mo-shi.md)
-    * 虚拟机磁盘文件
+    * [虚拟机磁盘文件](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-ci-pan-wen-jian.md)
     * 虚拟机备份
     * 虚拟机快照
     * 虚拟机创建还原点
