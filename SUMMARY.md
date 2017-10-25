@@ -33,7 +33,7 @@
   * [业务连续性、可靠性](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ye-wu-lian-xu-xing-3001-ke-kao-xing.md)
   * [虚拟网络管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-wang-luo-guan-li.md)
   * [存储管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/cun-chu-guan-li.md)
-  * 基于角色的访问控制
+  * [基于角色的访问控制](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ji-yu-jiao-se-de-fang-wen-kong-zhi.md)
   * 服务器运维管理
   * 平台内容还原
 
