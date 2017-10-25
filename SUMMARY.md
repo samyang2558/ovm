@@ -20,7 +20,7 @@
     * [创建虚拟机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/chuang-jian-xu-ni-ji.md)
     * [修改虚拟机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xiu-gai-xu-ni-ji.md)
     * [虚拟机开机/关机管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-kai-673a-guan-ji-guan-li.md)
-    * 批量搜索虚拟机
+    * [批量搜索虚拟机](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/pi-liang-sou-suo-xu-ni-ji.md)
     * 完整克隆和链接克隆
     * 虚拟机批量操作
     * 资源实时监控
