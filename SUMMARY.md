@@ -13,7 +13,7 @@
   * [登录管理平台](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/deng-lu-guan-li-ping-tai.md)
   * [修改仓储路径](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xiu-gai-cang-chu-lu-jing.md)
   * [新建服务器池](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xin-jian-fu-wu-qi-chi.md)
-  * 添加服务器
+  * [添加服务器](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/tian-jia-fu-wu-qi.md)
   * 创建虚拟交换机
   * 虚拟机操作管理
   * 业务动态平滑扩展
