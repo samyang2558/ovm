@@ -31,7 +31,7 @@
     * [虚拟机创建还原点](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-ji-cao-zuo-guan-li/xu-ni-ji-chuang-jian-huan-yuan-dian.md)
   * [业务动态平滑扩展](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ye-wu-dong-tai-ping-hua-kuo-zhan.md)
   * [业务连续性、可靠性](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ye-wu-lian-xu-xing-3001-ke-kao-xing.md)
-  * 虚拟网络管理
+  * [虚拟网络管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-wang-luo-guan-li.md)
   * 存储管理
   * 基于角色的访问控制
   * 服务器运维管理
