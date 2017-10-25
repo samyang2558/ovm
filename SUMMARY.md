@@ -34,6 +34,6 @@
   * [虚拟网络管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xu-ni-wang-luo-guan-li.md)
   * [存储管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/cun-chu-guan-li.md)
   * [基于角色的访问控制](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ji-yu-jiao-se-de-fang-wen-kong-zhi.md)
-  * 服务器运维管理
+  * [服务器运维管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/fu-wu-qi-yun-wei-guan-li.md)
   * 平台内容还原
 
