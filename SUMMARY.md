@@ -9,4 +9,18 @@
   * [易思捷OVM管理平台安装](peizhi/yi-si-jie-ovm-guan-li-ping-tai-an-zhuang.md)
   * [易思捷OVMserver计算节点安装](peizhi/yi-si-jie-ovmserver-ji-suan-jie-dian-an-zhuang.md)
 * [易思捷OVM产品概览](yi-si-jie-ovm-chan-pin-gai-lan.md)
+* [使用易思捷OVM管理平台](shi-yong-yi-si-jie-ovm-guan-li-ping-tai.md)
+  * [登录管理平台](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/deng-lu-guan-li-ping-tai.md)
+  * [修改仓储路径](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/xiu-gai-cang-chu-lu-jing.md)
+  * 新建服务器池
+  * 添加服务器
+  * 创建虚拟交换机
+  * 虚拟机操作管理
+  * 业务动态平滑扩展
+  * 业务连续性、可靠性
+  * 虚拟网络管理
+  * 存储管理
+  * 基于角色的访问控制
+  * 服务器运维管理
+  * 平台内容还原
 
