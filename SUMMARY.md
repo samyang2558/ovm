@@ -36,6 +36,5 @@
   * [基于角色的访问控制](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ji-yu-jiao-se-de-fang-wen-kong-zhi.md)
   * [服务器运维管理](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/fu-wu-qi-yun-wei-guan-li.md)
   * [平台内容还原](shi-yong-yi-si-jie-ovm-guan-li-ping-tai/ping-tai-nei-rong-huan-yuan.md)
-
-
+* [技术支持](ji-zhu-zhi-chi.md)
 
